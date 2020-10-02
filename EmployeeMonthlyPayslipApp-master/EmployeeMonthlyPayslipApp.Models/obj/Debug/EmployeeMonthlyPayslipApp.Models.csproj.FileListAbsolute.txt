@@ -1,0 +1,11 @@
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\bin\Debug\EmployeeMonthlyPayslipApp.Models.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\bin\Debug\EmployeeMonthlyPayslipApp.Models.pdb
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\bin\Debug\EmployeeMonthlyPayslipApp.Interfaces.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\bin\Debug\EmployeeMonthlyPayslipApp.Interfaces.pdb
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\obj\Debug\EmployeeMonthlyPayslipApp.Models.csprojAssemblyReference.cache
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\obj\Debug\EmployeeMonthlyPayslipApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\obj\Debug\EmployeeMonthlyPayslipApp.Models.csproj.CopyComplete
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\obj\Debug\EmployeeMonthlyPayslipApp.Models.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Models\obj\Debug\EmployeeMonthlyPayslipApp.Models.pdb

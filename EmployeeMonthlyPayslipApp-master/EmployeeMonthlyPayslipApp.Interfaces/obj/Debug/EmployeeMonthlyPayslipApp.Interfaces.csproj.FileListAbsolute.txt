@@ -1,0 +1,6 @@
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Interfaces\bin\Debug\EmployeeMonthlyPayslipApp.Interfaces.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Interfaces\bin\Debug\EmployeeMonthlyPayslipApp.Interfaces.pdb
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Interfaces\obj\Debug\EmployeeMonthlyPayslipApp.Interfaces.csprojAssemblyReference.cache
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Interfaces\obj\Debug\EmployeeMonthlyPayslipApp.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Interfaces\obj\Debug\EmployeeMonthlyPayslipApp.Interfaces.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp.Interfaces\obj\Debug\EmployeeMonthlyPayslipApp.Interfaces.pdb

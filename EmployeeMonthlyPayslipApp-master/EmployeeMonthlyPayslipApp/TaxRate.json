@@ -1,0 +1,46 @@
+﻿{
+  "taxStructure": {
+    "taxRate": {
+      "taxSlab": [
+        {
+          "maxIncome": 18200.00,
+          "minIncome": 0.00,
+          "tax": {}
+        },
+        {
+          "maxIncome": 37000.00,
+          "minIncome": 18201.00,
+          "tax": {
+            "additionalTaxPercentageOverMinIncome": 0.19
+          }
+        },
+        {
+          "maxIncome": 80000.00,
+          "minIncome": 37001.00,
+          "tax": {
+            "additionalTaxPercentageOverMinIncome": 0.325,
+            "flatTax": 3572.00
+          }
+        },
+        {
+          "maxIncome": 180000.00,
+          "minIncome": 80001.00,
+          "tax": {
+            "additionalTaxPercentageOverMinIncome": 0.37,
+            "flatTax": 17547.00
+          }
+        },
+        {
+          "minIncome": 180001.00,
+          "tax": {
+            "additionalTaxPercentageOverMinIncome": 0.45,
+            "flatTax": 54547.00
+          }
+        }
+      ],
+      "taxYearEnd": 2013,
+      "taxYearStart": 2012
+    }
+  }
+}
+

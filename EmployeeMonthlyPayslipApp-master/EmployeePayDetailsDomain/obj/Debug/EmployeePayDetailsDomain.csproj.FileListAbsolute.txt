@@ -1,0 +1,11 @@
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\bin\Debug\EmployeePayDetailsDomain.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\bin\Debug\EmployeePayDetailsDomain.pdb
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\bin\Debug\EmployeeMonthlyPayslipApp.Interfaces.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\bin\Debug\EmployeePayDetailsDomain.Interfaces.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\bin\Debug\EmployeeMonthlyPayslipApp.Interfaces.pdb
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\bin\Debug\EmployeePayDetailsDomain.Interfaces.pdb
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\obj\Debug\EmployeePayDetailsDomain.csprojAssemblyReference.cache
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\obj\Debug\EmployeePayDetailsDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\obj\Debug\EmployeePayDetailsDomain.csproj.CopyComplete
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\obj\Debug\EmployeePayDetailsDomain.dll
+C:\Users\Ritesh Jangle\Downloads\EmployeeMonthlyPayslipApp-master\EmployeeMonthlyPayslipApp-master\EmployeePayDetailsDomain\obj\Debug\EmployeePayDetailsDomain.pdb
